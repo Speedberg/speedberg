@@ -1,20 +1,6 @@
-# Bonky Sus Amogus
--  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀      
-- ⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ⠀⠀                                                             ⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞ⠀⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞඞඞඞ⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀ඞඞඞඞඞ⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞ⠀
-- ⠀⠀ඞඞඞඞඞඞඞ⠀⠀⠀ඞඞඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞ⠀
-- ⠀ඞඞඞඞඞඞඞඞ⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ⠀
-- ⠀ඞඞඞ⠀⠀ඞඞඞ⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ⠀
-- ⠀ඞඞඞ⠀⠀ඞඞඞ⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞඞඞඞඞ⠀⠀
-- ⠀ඞඞඞ⠀⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀
-- ⠀ඞඞ⠀⠀⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀
-- ⠀ඞඞ⠀⠀⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀
-- ⠀ඞඞඞ⠀⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀
-- ⠀ඞඞඞඞ⠀ඞඞඞ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ඞඞඞ⠀⠀
-- ⠀⠀ඞඞඞඞඞඞඞ⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞ⠀ඞඞඞ⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞ⠀⠀⠀⠀⠀ඞඞඞ⠀ඞඞඞඞ⠀⠀ඞඞඞ⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞ⠀⠀⠀⠀⠀ඞඞඞ⠀ඞඞඞ⠀⠀⠀ඞඞඞ⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞඞ⠀ඞඞඞඞඞඞඞඞ⠀⠀⠀⠀
-- ⠀⠀⠀⠀⠀⠀⠀ඞඞඞඞඞඞඞඞඞ⠀
+# Snek
+![github contribution grid snake animation](https://raw.githubusercontent.com/Speedberg/speedberg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Speedberg/speedberg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+_Generated with [Platane/snk](https://github.com/Platane/snk)_
+
