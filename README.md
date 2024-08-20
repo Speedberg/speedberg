@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/Speedberg/speedberg/main/Cortana.webp]
+![https://raw.githubusercontent.com/Speedberg/speedberg/main/Cortana.png]
