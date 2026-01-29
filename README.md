@@ -1,1 +1,1 @@
-[![Flame](https://raw.githubusercontent.com/Speedberg/speedberg/main/screenshot_2025-2-16-18-23-54.jpg)](https://speedberg.com/projects/fractal-flames)
+[![Flame](https://raw.githubusercontent.com/Speedberg/speedberg/main/screenshot_2025-2-16-18-23-54.webp)](https://speedberg.com/projects/fractal-flames)
