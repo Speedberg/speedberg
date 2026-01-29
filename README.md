@@ -1,2 +1,1 @@
-# Latest Project 👇
-[![Flame](https://raw.githubusercontent.com/Speedberg/speedberg/main/Cortana.webp)](https://speedberg.gitlab.io/projects/fractal-flames)
+[![Flame](https://raw.githubusercontent.com/Speedberg/speedberg/main/screenshot_2025-2-16-18-23-54.jpg)](https://speedberg.com/projects/fractal-flames)
